@@ -1,11 +1,13 @@
 about:
-  description: Rust implementation of PowerSession, with new features and enhancements
+  description:
+  |
+    Rust implementation of PowerSession, with new features and enhancements
   license: MIT
   homepage: https://github.com/Watfaq/PowerSession-rs
   head: e313250
   archived: false
   latestVersion: v0.1.16
-  collectedAt: 2026-09-04T04:21:06Z
+  collectedAt: 2026-09-04T19:24:57Z
 timeline:
   created: 2022-06-03
   lastCommit: 2026-06-11
@@ -16,17 +18,25 @@ popularity:
   fork: 16
   release: 11
   contributor: 8
-  pullRequest: 201
+  pullRequest: 290
   issue: 29
 language:
   Rust: 84147
-totalLine: 84147
+totalBytes: 84147
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
     openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 6
     openIssue: 2
     commit: 40
+  last720d:
+    since: 2024-09-14
+    release: 5
+    mergedPR: 44
+    openPR: 2
+    closedIssue: 12
+    openIssue: 2
+    commit: 58
+total:
+  release: 11
+  mergedPR: 89
+  openPR: 2
+  closedIssue: 23
+  openIssue: 6
+  commit: 186
+---
+---
+
