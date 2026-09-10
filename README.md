@@ -12,36 +12,7 @@ Rust implementation of PowerSession, with new features and enhancements
 x install PowerSession-rs
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/Watfaq/PowerSession-rs>
-- **Homepage**: <https://github.com/Watfaq/PowerSession-rs>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `v0.1.16` (2026-06-11)
-- **Last commit**: 2026-06-11
-- **Assets in release**: 1
-- **Published**: 2026-06-11T07:09:00Z
-
-## Popularity
-
-- **Stars**: 299 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
-
-## Totals (cumulative)
-
-- **Releases**: 11 · **Merged PRs**: 89 · **Open PRs**: 2 · **Closed issues**: 23 · **Open issues**: 6 · **Commits**: 186
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 4 | 38 | 2 | 5 | 2 | 40 |
-
-## Code size
+## Code insight
 
 Total: **2,114** lines of code across **21** files in the top 5 languages.
 
@@ -53,13 +24,50 @@ Total: **2,114** lines of code across **21** files in the top 5 languages.
 | Markdown | 0 | 256 | 104 | 3 |
 | Text | 0 | 32 | 0 | 2 |
 
+## Source
+
+- **Upstream**: <https://github.com/Watfaq/PowerSession-rs>
+- **Homepage**: <https://github.com/Watfaq/PowerSession-rs>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `v0.1.16` (2026-06-11)
+- **Last commit**: 2026-06-11
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 300 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
+
+## Totals (cumulative)
+
+- **Releases**: 11 · **Merged PRs**: 89 · **Open PRs**: 2 · **Closed issues**: 23 · **Open issues**: 6 · **Commits**: 186
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 14 | 2 | 4 | 1 | 16 |
+| 360d | 2025-09-15 | 4 | 38 | 2 | 5 | 2 | 40 |
+| last720d | 2024-09-20 | 5 | 44 | 2 | 12 | 2 | 58 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [PowerSession.exe](https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.16/PowerSession.exe) | 4.9 MiB | `other` |
+
 ## Improve this data
 
 Install metadata for PowerSession-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `PowerSession-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/PowerSession-rs.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/PowerSession-rs.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:29:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:54:55Z._

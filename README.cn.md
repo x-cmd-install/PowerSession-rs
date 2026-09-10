@@ -4,13 +4,25 @@
 
 Rust implementation of PowerSession, with new features and enhancements
 
-![PowerSession-rs](https://repo.x-cmd.io/PowerSession-rs.svg)
+![PowerSession-rs](https://repo.x-cmd.io/PowerSession-rs.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install PowerSession-rs
 ```
+
+## 代码洞察
+
+合计: **2,114** 行代码（覆盖前 5 种语言、共 **21** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 2,065 | 94 | 294 | 14 |
+| Toml | 48 | 0 | 9 | 1 |
+| Json | 1 | 0 | 0 | 1 |
+| Markdown | 0 | 256 | 104 | 3 |
+| Text | 0 | 32 | 0 | 2 |
 
 ## 源代码
 
@@ -23,11 +35,10 @@ x install PowerSession-rs
 - **最新版本**: `v0.1.16` (2026-06-11)
 - **最近提交**: 2026-06-11
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-06-11T07:09:00Z
 
 ## 流行度
 
-- **Star**: 299 · **Fork**: 16 · **开放 issue**: 29 · **贡献者**: 8
+- **Star**: 300 · **Fork**: 16 · **开放 issue**: 29 · **贡献者**: 8
 
 ## 累计统计
 
@@ -38,20 +49,17 @@ x install PowerSession-rs
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 14 | 2 | 4 | 1 | 16 |
 | 360d | 2025-09-15 | 4 | 38 | 2 | 5 | 2 | 40 |
+| last720d | 2024-09-20 | 5 | 44 | 2 | 12 | 2 | 58 |
 
-## 代码规模
+## Release 资产
 
-合计: **2,114** 行代码（覆盖前 5 种语言、共 **21** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 2,065 | 94 | 294 | 14 |
-| Toml | 48 | 0 | 9 | 1 |
-| Json | 1 | 0 | 0 | 1 |
-| Markdown | 0 | 256 | 104 | 3 |
-| Text | 0 | 32 | 0 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [PowerSession.exe](https://github.com/Watfaq/PowerSession-rs/releases/download/v0.1.16/PowerSession.exe) | 4.9 MiB | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +70,4 @@ PowerSession-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:29:37Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:54:55Z._
