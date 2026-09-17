@@ -38,7 +38,7 @@ Total: **2,114** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 300 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
+- **Stars**: 301 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,114** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 1 | 12 | 2 | 4 | 1 | 13 |
-| 360d | 2025-09-21 | 4 | 38 | 2 | 5 | 2 | 40 |
-| last720d | 2024-09-26 | 5 | 44 | 2 | 12 | 2 | 58 |
+| 30d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 1 | 11 | 2 | 4 | 1 | 13 |
+| 360d | 2025-09-22 | 4 | 38 | 2 | 5 | 2 | 40 |
+| last720d | 2024-09-27 | 5 | 44 | 2 | 12 | 2 | 58 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for PowerSession-rs lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:43:22Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:43:18Z._
