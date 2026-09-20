@@ -4,7 +4,7 @@
 
 Rust implementation of PowerSession, with new features and enhancements
 
-![PowerSession-rs](https://repo.x-cmd.io/PowerSession-rs.svg)
+[![x-cmd/install — PowerSession-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PowerSession-rs.svg)](https://x-cmd.com/install/PowerSession-rs)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **2,114** lines of code across **21** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 301 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
+- **Stars**: 302 · **Forks**: 16 · **Open issues**: 29 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,114** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 11 | 2 | 4 | 1 | 13 |
-| 360d | 2025-09-23 | 4 | 38 | 2 | 5 | 2 | 40 |
-| last720d | 2024-09-28 | 5 | 44 | 2 | 12 | 2 | 58 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 10 | 2 | 4 | 1 | 13 |
+| 360d | 2025-09-25 | 4 | 38 | 2 | 5 | 2 | 40 |
+| last720d | 2024-09-30 | 5 | 44 | 2 | 12 | 2 | 58 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for PowerSession-rs lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:30:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:05Z._
